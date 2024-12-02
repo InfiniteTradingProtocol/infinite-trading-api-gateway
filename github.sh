@@ -22,7 +22,7 @@ fi
 # Commit the changes with a message
 git commit -m "$commit_message"
 
-git remote add origin git@github.com:InfiniteTradingProtocol/infinite-trading-api-gateway.git
+#git remote add origin git@github.com:InfiniteTradingProtocol/infinite-trading-api-gateway.git
 
 git branch -M main
 
