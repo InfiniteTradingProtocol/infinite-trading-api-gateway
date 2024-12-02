@@ -1,4 +1,3 @@
-```markdown
 # **Infinite Trading Protocol API Gateway**
 
 ![API Gateway]([https://via.placeholder.com/800x400.png?text=Infinite+Trading+Protocol+API+Gateway](https://via.placeholder.com/800x400.png?text=Infinite+Trading+Protocol+API+Gateway](https://www.infinitetrading.io/_next/image?url=%2Ftrading.png&w=640&q=75))
