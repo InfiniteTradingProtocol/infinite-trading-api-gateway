@@ -28,4 +28,4 @@ git branch -M main
 
 # Push to the main branch
 
-git push -u origin main
+git push origin main
