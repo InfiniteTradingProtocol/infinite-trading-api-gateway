@@ -1,7 +1,7 @@
 ```markdown
 # **Infinite Trading Protocol API Gateway**
 
-![API Gateway]([https://via.placeholder.com/800x400.png?text=Infinite+Trading+Protocol+API+Gateway](https://www.infinitetrading.io/_next/image?url=%2Ftrading.png&w=640&q=75))
+![API Gateway]([https://via.placeholder.com/800x400.png?text=Infinite+Trading+Protocol+API+Gateway](https://via.placeholder.com/800x400.png?text=Infinite+Trading+Protocol+API+Gateway](https://www.infinitetrading.io/_next/image?url=%2Ftrading.png&w=640&q=75))
 
 The **Infinite Trading Protocol API Gateway** is a robust intermediary layer that secures and filters communication between the internet and the Infinite Trading Protocol API. It ensures the safety, scalability, and reliability of API operations by mitigating risks such as DDoS attacks and other vulnerabilities.
 
@@ -71,6 +71,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## **Contact**
 
-For questions or support, please reach out to the **Infinite Trading Protocol** team at [support@infiniteprotocol.io](mailto:support@infiniteprotocol.io).
+For questions or support, please reach out to the **Infinite Trading Protocol** team at [admin@infinitetrading.io](mailto:admin@infinitetrading.io).
 ```
-
