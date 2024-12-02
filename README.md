@@ -2,7 +2,6 @@
 
 The **Infinite Trading Protocol API Gateway** is a robust intermediary layer that secures and filters communication between the internet and the Infinite Trading Protocol API. It ensures the safety, scalability, and reliability of API operations by mitigating risks such as DDoS attacks and other vulnerabilities.
 
----
 
 ## **Architecture**
 
